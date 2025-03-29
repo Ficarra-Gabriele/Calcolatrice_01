@@ -1,0 +1,10 @@
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe.config
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.exe
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\bin\Debug\Calcolatrice.pdb
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.AssemblyReference.cache
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Form1.resources
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.Properties.Resources.resources
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.GenerateResource.cache
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.exe
+C:\Users\ficarra.gabriele\source\repos\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.pdb
